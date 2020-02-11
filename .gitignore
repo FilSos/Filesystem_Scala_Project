@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+.idea
+Filesystem_Scala_Project.iml
